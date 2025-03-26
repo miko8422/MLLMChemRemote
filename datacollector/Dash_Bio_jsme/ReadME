@@ -1,0 +1,5 @@
+Dash support jsme, the original jsme was build with java script, and dash support its API.
+
+Dash is a low-code framework for light weight application build on python. For the Molecule Graph generation, it support various 3D and 2D format, to enhance the performance of the MLLM model, this is a good thing because it could gave us more diverse images, by so far our data hunger was filled.
+
+Here we just use Dash_Bio to build a web application as it support it by default, and we use selenium to crawl data from this website, not a smart way, you can try directly analysis its API and call the API directly, here we just give input and screen shot the canvas.
