@@ -252,7 +252,7 @@ if __name__ == '__main__':
     size = (400, 300)
     path = './data_demo_task3/'
 
-    gen_multiple_smile_img(smiles_list, file_path=path, id=idx, size=size)
+    gen_reaction_img(smiles_list, file_path=path, id=idx, size=size)
 
 
     # for line in smiles_infos:

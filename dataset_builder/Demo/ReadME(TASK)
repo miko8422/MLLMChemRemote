@@ -1,11 +1,11 @@
 Here we have a short demo for the task we are going to include in our work, most of the task are refering to paper InsturctionMol, PatCID, Mol-Instuctions
 
 Tasks:
-1. Optical Chemical Structure Recognition
-2. Molecular Description Generation
-3. Forward reaction prediction
-4. Retrosynthesis
-5. Reagent prediction
-6. Property prediction
-7. Hand Writing Molecule Recognition
-8. Chemical document understanding
+1. Optical Chemical Structure Recognition   (OCSR)
+2. Molecular Description Generation         (MDG)
+3. Forward reaction prediction              (FRP)
+4. Retrosynthesis                           (RSA)
+5. Reagent prediction                       (RP)
+6. Property prediction                      (PP)
+7. Hand Writing Molecule Recognition        (HWMR)
+8. Chemical document understanding          (CDU)
